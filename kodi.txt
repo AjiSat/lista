@@ -3,7 +3,7 @@
 plugin://script.module.horus?action=play&id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 #EXTINF:-1 group-title="UHD" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep2 LaLiga UHD DASH  be07
 plugin://script.module.horus?action=play&id=be071f7a5977de40f8f024a8ae582e799a6c4b8c
-#EXTINF:-1 group-title="UHD" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep3 MultiAudio  8286
+#EXTINF:-1 group-title="UHD" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep3 LaLiga UHD MultiAudio  8286
 plugin://script.module.horus?action=play&id=8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 UHD  6b94
 plugin://script.module.horus?action=play&id=6b94479c24898700089e6b87d28a3ccc72dc4041
