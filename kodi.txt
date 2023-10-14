@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
+#EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Fight  d6cd
+plugin://script.module.horus?action=play&id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 UHD ep  c021
 plugin://script.module.horus?action=play&id=c021e3af42b9cd3743817a2c6258e0986666dd73
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 UHD  6b94
@@ -99,8 +101,8 @@ plugin://script.module.horus?action=play&id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16d
 plugin://script.module.horus?action=play&id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga Femenina 1" tvg-logo="https://telegra.ph/file/88ed96a2e74f404784cce.png" ,DAZN Liga F 1  6002
 plugin://script.module.horus?action=play&id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga Femenina 2" tvg-logo="https://telegra.ph/file/afdb26d76ca8cd6c83594.png" ,DAZN Liga F 2  4af5
-plugin://script.module.horus?action=play&id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga Femenina 2" tvg-logo="https://telegra.ph/file/afdb26d76ca8cd6c83594.png" ,DAZN Liga F 2  d6cd
+plugin://script.module.horus?action=play&id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga Femenina 3" tvg-logo="https://telegra.ph/file/ab593c68496f7ade0126c.png" ,DAZN Liga F 3  1629
 plugin://script.module.horus?action=play&id=162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga Femenina 4" tvg-logo="https://telegra.ph/file/426648e524b5cacd6f28b.png" ,DAZN Liga F 4  e454
